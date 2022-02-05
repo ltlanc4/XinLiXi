@@ -1,0 +1,32 @@
+.text-info {
+    margin: 30px;
+    font-size: 50px;
+}
+
+.btn-position {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.btn-yes {
+    width: 200px !important;
+    font-size: 40px !important;
+    margin-right: 2rem;
+}
+
+.btn-no {
+    width: 200px !important;
+    font-size: 40px !important;
+}
+
+.btn-no-du-phong {
+    width: 200px !important;
+    font-size: 40px !important;
+    margin-right: 2rem;
+}
+
+.btn-yes-du-phong {
+    width: 200px !important;
+    font-size: 40px !important;
+}
